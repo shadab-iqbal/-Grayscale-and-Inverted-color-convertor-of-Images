@@ -1,4 +1,4 @@
-# -Grayscale-and-Inverted-color-convertor-of-Images
+Grayscale-and-Inverted-color-convertor-of-Images
 
 You can apply Grayscale filter or Inverted color filter to any Images using this program. Developed using Java and custom made Java Library.
 
